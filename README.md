@@ -1,13 +1,13 @@
 Martian Robots
 ==============
 
-An attempt at the martian robots kata.
+Solution to the Martian Robot - Node problem
 
-To run all the tests you'll need to install mocha chai, Install them using the commands below:
+To run the test you'll need to install mocha chai, Install them using the commands below:
 > npm install mocha chai -g
 
 Then against the root folder run:
-> mocha .\tests\test1.js
+> npm test
 
 Finally to see the test case in action run:
 > node mars.js
