@@ -36,7 +36,7 @@ function Mars() {
             }
             result += `${robot.position.x} ${robot.position.y} ${robot.position.orientation}${robot.position.lost?' LOST\n':'\n'}`
         }
-        // console.log(result);
+        console.log(result);
         return result;
     }
 }
