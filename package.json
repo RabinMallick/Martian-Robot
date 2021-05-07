@@ -2,7 +2,7 @@
   "name": "martian-robot",
   "version": "1.0.0",
   "description": "Test",
-  "main": "martian.js",
+  "main": "mars.js",
   "scripts": {
     "test": "mocha ./tests/test1.js"
   },
